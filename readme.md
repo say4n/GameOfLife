@@ -34,3 +34,7 @@ Run `python3 main.py` in the terminal to start the simulation.
 
 ### Author
 Sayan Goswami (@Sayan98)
+
+### Screenshot
+
+![Conway's Game of Life](/screenshots/sim.png)
